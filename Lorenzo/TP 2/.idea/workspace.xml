@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10cf0860-7e19-43db-8d9f-7dd92a3f5777" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/TP2_student.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TP2_student.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="JupyterTrust" id="80b237c4-8988-4a69-b0bd-90b50a61188c" />
+  <component name="ProjectId" id="1iH5VgM4Mrb0SMayfH6GcMJxc0V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10cf0860-7e19-43db-8d9f-7dd92a3f5777" name="Default Changelist" comment="" />
+      <created>1601551703450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601551703450</updated>
+      <workItem from="1601551705142" duration="220000" />
+      <workItem from="1601551937577" duration="1428000" />
+      <workItem from="1601554107340" duration="2848000" />
+      <workItem from="1601557494942" duration="1432000" />
+      <workItem from="1601558953590" duration="2507000" />
+      <workItem from="1601712943685" duration="883000" />
+      <workItem from="1601714460824" duration="1277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="211" key="FileChooserDialogImpl" timestamp="1601552050613">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="211" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1601552050613" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1601557802793">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601557802793" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1601557802792">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601557802792" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1601557802791">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601557802791" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1601557802792">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601557802792" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1601712970440">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1601712970440" />
+  </component>
+</project>
